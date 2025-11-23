@@ -8,3 +8,5 @@ The Gold Layer is the business-level data presentation to support and reporting 
 **1. gold.dim_customers**
  - **Purpose:** Stores customer details with demograhic and geographic data.
  - **Columns:**
+| Column Name | Data Type | Description |
+---

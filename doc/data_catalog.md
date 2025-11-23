@@ -9,4 +9,5 @@ The Gold Layer is the business-level data presentation to support and reporting 
  - **Purpose:** Stores customer details with demograhic and geographic data.
  - **Columns:**
 | Column Name | Data Type | Description |
----
+:---:
+| product_key | INT       | Surrogate key uniquely indentifying each product record in the product dimension table.

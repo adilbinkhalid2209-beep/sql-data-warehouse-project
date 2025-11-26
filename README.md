@@ -67,4 +67,4 @@ This Project is licensed under the [MIT License](License). You are free to use, 
 
 ## About Me
 
-Hi there! I'm **Adil Bin Khalid**. I have worked in IT sales and customer support executive for 2.5 year. I have got the 0passion for data and want to switch my career from IT Sales to **Data Analytics**.
+Hi there! I'm **Adil Bin Khalid**. I have worked in IT sales and customer support executive for 2.5 year. I have got the passion for data and want to switch my career from IT Sales to **Data Analytics**.

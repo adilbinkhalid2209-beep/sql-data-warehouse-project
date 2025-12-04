@@ -9,8 +9,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 This projecct involves:
 
  **1. Data Architecture:** Designing a Modern Data WArehouse using Medallion Architecture **Bronze**, **Silver** and **Gold** layers.
+ 
  **2. ETL Pipelines:** Extracting, transforming and loading data from source system into the warehouse.
+ 
  **3. Data Modelling:** Developing act and dimension tables optimized for analytical queries.
+ 
  **4. Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.
 This repository is an excellent resource for professionals and students looking to showcase expertise in:
  - SQL Development
@@ -55,9 +58,9 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 <img width="1156" height="832" alt="image" src="https://github.com/user-attachments/assets/1441020d-e225-4f25-87f5-d517c9a7ca2a" />
 
- **1. Bronze Layer:** Stores raw data as-is from the source systems Data is ingested from CSV Files into SQL Server Database.
+ **1. Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
  
- **2. Silver Layer:** This layer includes data cleansing, standardization and normilazation processes to preparedata for analytics.
+ **2. Silver Layer:** This layer includes data cleansing, standardization and normilazation processes to prepare data for analytics.
  
  **3. Gold Layers:** Houses Business ready data model into a star schema required for reporting and analytics.
 
